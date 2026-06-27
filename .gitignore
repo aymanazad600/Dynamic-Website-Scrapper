@@ -1,1 +1,6 @@
+.venv/
+work/
+__pycache__/
 .DS_Store
+.env
+kaggle.json

@@ -1,0 +1,4 @@
+kaggle>=1.6.17
+pandas>=2.2.0
+openpyxl>=3.1.0
+playwright>=1.45.0
